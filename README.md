@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian
 - 💻 I'm a Software Developer
 - 🎓 I’m a second-year Computer Engineering at the University of Waterloo
-- 🌱 I’m interested in full-stack, AI, ML etc.e
+- 🌱 I’m interested in full-stack, AI, and ML
 - 💞️ I’m looking to collaborate on any full-stack projects
 
 [![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brianwu33&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
